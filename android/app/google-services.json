@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996218944463",
+    "firebase_url": "https://webdeveloper-4c25e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "webdeveloper-4c25e",
+    "storage_bucket": "webdeveloper-4c25e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996218944463:android:d7db455d6fe0c2120130ba",
+        "android_client_info": {
+          "package_name": "com.alyaansohail.webdeveloper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996218944463-jdl51c9lgcv2daqbleqh0pqu8lnqfbb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZe1XWGfp2oPOXAN-LL6zqVQDEjfA3fK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996218944463-jdl51c9lgcv2daqbleqh0pqu8lnqfbb7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996218944463-o4conbg4bebcncvpjm7bi97vdr2rkmtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alyaansohail.webdeveloper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
